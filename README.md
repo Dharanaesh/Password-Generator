@@ -1,5 +1,5 @@
 # Password-Generator
 
-Simple Website to generate a Strong Random Password of desired length
+<p>Simple Website to generate a Strong Random Password of desired length</p>
 
-https://dharanaesh2001.github.io/Password-Generator/index.html use this Link
+<h2><a href="https://dharanaesh2001.github.io/Password-Generator/index.html">PASSWORD GENERATOR</a></h2>
