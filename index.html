@@ -8,16 +8,19 @@
         <script src="script.js" defer></script>
     </head>
     <body>
+        <div class="image" id="imgcon">
+            <img src="password.jpg" alt="password" id="imgchange">
+            <div id="img-text"></div>
+        </div>
         <div class="pw-container">
             <div class="pw-header">
-                <h1>PASSWORD GENERATOR</h1>
                 <div class="pw">
-                    <span id="pw">DF@3!sdf</span>
+                    <span id="pw">Jj4$+taj6&</span>
                     <button id="copy">Copy</button>
                 </div>
             </div>
-            <div class="pw-body">
-                <div class="form-control">
+            <div class="pw-body" id="pw-text">
+                <div class="form-control" id="control">
                     <label for="len">Password Length</label>
                     <input id="len" value="10" type="number" min="2" max="30" />
                 </div>
@@ -42,6 +45,8 @@
                 </button>
             </div>
             <footer><h4 style="text-align:center">Project by DHARANAESH</h4></footer>
+        </div>
+            </div>
         </div>
     </body>
 </html>
