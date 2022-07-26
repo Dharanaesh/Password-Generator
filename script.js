@@ -80,7 +80,7 @@ generateEl.addEventListener("click", generatePassword);
 
 copyEl.addEventListener("click", () => {
     const textarea = document.createElement("textarea");
-    const password = pwEl.innerText;
+    const password = pwEl.innerText; //code
     if (!password) {
         return;
     }
