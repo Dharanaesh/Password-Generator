@@ -5,11 +5,7 @@
     * {
         box-sizing: border-box;
     }
-        .ghj{
-            font-size: 50px;
-            width: 75px;
-            text_align: center;
-        }
+       
     body {
         background-color: black;
         color: white;
@@ -116,13 +112,17 @@
         width: 100%;
     }
 }
+
 @media screen and (max-width:480px){
     @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap");
         
     * {
         box-sizing: border-box;
     }
-    
+     .ghj{
+            color:black;
+            text_align: center;
+        }
     body {
         background-color: rgb(0, 0, 0);
         color: white;
@@ -132,7 +132,7 @@
         min-height: 100vh;
     }
     .image{
-        left:30%;
+        left:25%;
         right:30%;
         position: fixed;
         top:2.5%;
