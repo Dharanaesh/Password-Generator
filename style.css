@@ -5,7 +5,11 @@
     * {
         box-sizing: border-box;
     }
-
+        .ghj{
+            font-size: 50px;
+            width: 75px;
+            text_align: center;
+        }
     body {
         background-color: black;
         color: white;
