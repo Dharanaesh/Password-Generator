@@ -128,9 +128,8 @@
         min-height: 100vh;
     }
     .image{
-        
-        left:30%;
-        right:30%;
+        left:25%;
+        right:35%;
         position: fixed;
         top:2.5%;
         height:40%;
@@ -138,6 +137,11 @@
     .image #imgchange{
         height:100px;
     }
+    figcaption{
+            color: red;
+            font-size: 30px;
+            text-align:center;
+        }
     .pw-container {
         bottom: 10%;
         margin-top:75%;
