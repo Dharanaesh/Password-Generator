@@ -138,9 +138,9 @@
         height:100px;
     }
     .pqw{
-            color: red;
             text-align:center;
-            padding:1px;
+            width:100%;
+            font-size:1rem;
         }
     .pw-container {
         bottom: 10%;
