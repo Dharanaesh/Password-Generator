@@ -128,11 +128,11 @@
         min-height: 100vh;
     }
     .image{
-        left:25%;
-        right:35%;
+        left:30%;
+        right:30%;
         position: fixed;
         top:2.5%;
-        height:40%;
+        height:35%;
     }
     .image #imgchange{
         height:100px;
