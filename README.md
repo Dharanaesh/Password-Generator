@@ -5,4 +5,4 @@
 
 ## Image
 
-[Sample Image](https://dharanaesh.github.io/Password-Generator/Sample Image.png)
+[Sample Image](https://dharanaesh.github.io/Password-Generator/Sample.jpg)
